@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/putfyre-innovations/static/css/main.943ed07a.css",
+    "main.js": "/putfyre-innovations/static/js/main.7a235662.js",
+    "static/media/Home.jpg": "/putfyre-innovations/static/media/Home.53fbebe28fba2040e87b.jpg",
+    "static/media/Product.png": "/putfyre-innovations/static/media/Product.42014a5e14ec9c2aec8c.png",
+    "static/media/about.jpeg": "/putfyre-innovations/static/media/about.3f642bbb34923d35a352.jpeg",
+    "static/media/service-background.jpg": "/putfyre-innovations/static/media/service-background.523bd210c49f9174f7f4.jpg",
+    "static/media/Static and dynamic.jpg": "/putfyre-innovations/static/media/Static and dynamic.869760c7b44c7c28c116.jpg",
+    "static/media/insta.png": "/putfyre-innovations/static/media/insta.661a8d22097791cf8c6d.png",
+    "index.html": "/putfyre-innovations/index.html",
+    "main.943ed07a.css.map": "/putfyre-innovations/static/css/main.943ed07a.css.map",
+    "main.7a235662.js.map": "/putfyre-innovations/static/js/main.7a235662.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.943ed07a.css",
+    "static/js/main.7a235662.js"
+  ]
+}

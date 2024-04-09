@@ -1,0 +1,46 @@
+.Contact {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  justify-content: center;
+  align-items: center;
+}
+
+.Contact-Logo {
+  height: 50px;
+  width: 30px;
+  padding: 10px 0;
+}
+
+.Contact-Container {
+  border: none;
+  background-color: #37757b;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.Contact-Container h6 {
+  font-size: 10px;
+  text-align: left;
+  padding-bottom: 20px;
+}
+
+.Terms {
+  display: flex;
+  padding-bottom: 15px;
+}
+
+.privacy {
+  padding-left: 50px;
+}
+.Terms a,
+.rights a {
+  text-decoration: none;
+  color: white;
+}
+.rights {
+  padding-top: 17px;
+}

@@ -1,0 +1,77 @@
+.service-container {
+  background-image: url("../Images/service-background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 50vh;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+  padding-top: 25vh;
+  font-size: 20px;
+  color: aliceblue;
+}
+
+.text-boxes {
+  text-align: center;
+  font-size: 20px;
+  height: 30vh;
+  padding-top: 10px;
+  background-color: aliceblue;
+}
+
+.text-boxes h2 {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.content-container {
+  display: flex;
+  background-color: aliceblue;
+}
+.content,
+.content h2,
+content p {
+  font-size: 20px;
+  padding: 20px;
+  background-color: aliceblue;
+}
+
+.kpo-service-main {
+  padding-top: 20px;
+  height: 50vh;
+  background-color: aliceblue;
+}
+.kpo-service {
+  font-size: 30px;
+  padding: 10px;
+}
+.list {
+  font-size: 25px;
+  letter-spacing: 0.5px;
+  padding-left: 10px;
+}
+.kpo-head {
+  text-align: center;
+  padding: 10px;
+  background-color: aliceblue;
+}
+.kpo1,
+.kpo1 h2,
+.kpo p {
+  font-size: 20px;
+  padding: 10px;
+  background-color: aliceblue;
+}
+
+@media only screen and (max-width: 960px) {
+  .content-container {
+    display: contents;
+    position: absolute;
+    height: max-content;
+  }
+  .webimg {
+    width: 100%;
+  }
+}

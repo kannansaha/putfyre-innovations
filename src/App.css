@@ -1,0 +1,14 @@
+.home,
+.about,
+.contactus,
+.services,
+.careers,
+.products,
+.notfound {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
+  height: 90vh;
+  page-orientation: unset;
+}
